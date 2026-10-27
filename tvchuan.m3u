@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:12,VTV1
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
+#EXTINF:0,VTV2
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/VTV2-HD-1080p/playlist.m3u8
+#EXTINF:0,VTV3
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/VTV3-HD-1080p/playlist.m3u8
+#EXTINF:0,VTV4
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv4__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV5
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:0,VTV5 Tây Nam B#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tnb__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV5 Tây Nguyên
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv5tn__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV6
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV7
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV8
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv8__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV9
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv9__vtv720p-h264/index.m3u8
+#EXTINF:0,VTV10
+#EXTVLCOPT:network-caching=1000
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
+#EXTINF:0,HTV1
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV2
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV3
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
+#EXTINF:0,HTV4
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:0,HTV5
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:0,HTV7
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV9
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Th#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Du L#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Gia #EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Phim
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Ph#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Thu#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC+
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:0,Tuyên Quang
+#EXTVLCOPT:network-caching=1000
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
+#EXTINF:0,Cao B#EXTVLCOPT:network-caching=1000
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+#EXTINF:0,L#EXTVLCOPT:network-caching=1000
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+#EXTINF:0,Thái Nguyên
+#EXTVLCOPT:network-caching=1000
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:0,Qu#EXTVLCOPT:network-caching=1000
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
+#EXTINF:0,Qu#EXTVLCOPT:network-caching=1000
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:0,B#EXTVLCOPT:network-caching=1000
+https://live-hq.evgcdn.net/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:0,Lào Cai
+#EXTVLCOPT:network-caching=1000
+https://luuchieu.truyenhinhso.vn/media/live/42297BC521EC911B8934699E/index.m3u8
+#EXTINF:0,Phú Th#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/2856e81d201c99b4649b5c62f3cddad3881/chunklist.m3u8
+#EXTINF:0,Hà N#EXTVLCOPT:network-caching=1000
+https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+#EXTINF:0,Hà N#EXTVLCOPT:network-caching=1000
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/hanoi2tv/live/hanoi2tv_720p/chunks.m3u8
+#EXTINF:0,S#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://live-hq.evgcdn.net/live/2855dfeccb7f49a41a2b0441b3bfeda413c/chunklist.m3u8
+#EXTINF:0,Lai Châu
+#EXTVLCOPT:network-caching=1000
+https://luuchieu.truyenhinhso.vn/media/live/AF157BFA0E9FE004C61AD76E/index.m3u8
+#EXTINF:0,H#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
+#EXTINF:0,H#EXTVLCOPT:network-caching=1000
+https://live-hq.evgcdn.net/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:0,H#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
+#EXTINF:0,Ninh Bình
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
+#EXTINF:0,Thanh Hóa
+#EXTVLCOPT:network-caching=1000
+http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni
+#EXTINF:0,Ngh#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
+#EXTINF:0,Hà T#EXTVLCOPT:network-caching=1000
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+#EXTINF:0,Qu#EXTVLCOPT:network-caching=1000
+https://luuchieu.truyenhinhso.vn/media/live/07F4162EA25E7311C230CA00/index.m3u8
+#EXTINF:0,Hu#EXTVLCOPT:network-caching=1000
+https://live.huetv.com.vn/TRT-Online/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
+#EXTINF:0,Qu#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
+#EXTINF:0,Qu#EXTVLCOPT:network-caching=1000
+https://ott3.nethubtv.vn/live/bentretv/chunklist_2.m3u8
+#EXTINF:0,Khánh Hòa
+#EXTVLCOPT:network-caching=1000
+https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
+#EXTINF:0,Khánh Hòa 1
+#EXTVLCOPT:network-caching=1000
+https://cdnbaokhanhhoa.com/live/90405a889081_std.m3u8
+#EXTINF:0,Gia Lai
+#EXTVLCOPT:network-caching=1000
+https://tv.gialaitv.vn/tv.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:0,Lâm #EXTVLCOPT:network-caching=1000
+https://luuchieu.truyenhinhso.vn/media/live/60142775E3B8083AB9D76E29/index.m3u8
+#EXTINF:0,Lâm #EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+#EXTINF:0,Tây Ninh
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://cdn.mediatech.vn/dongnai/tv1live-transmux.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://cdn.mediatech.vn/dongnai/tv2live-transmux.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#EXTINF:0,V#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=25
+#EXTINF:0,V#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=26
+#EXTINF:0,V#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=219
+#EXTINF:0,V#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:0,V#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:0,C#EXTVLCOPT:network-caching=1000
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:0,C#EXTVLCOPT:network-caching=1000
+https://live.canthotv.vn/cs2/live.stream/chunklist.m3u8
+#EXTINF:0,C#EXTVLCOPT:network-caching=1000
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+#EXTINF:0,Cà Mau
+#EXTVLCOPT:network-caching=1000
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
